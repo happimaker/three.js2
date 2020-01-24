@@ -1,0 +1,26 @@
+//--lux:mat:5--
+//--lux:shader:5:0--
+// KeyShot material file - KeyShot [64 bit] v7.1.36
+#define shader 1 lux_advanced {
+"diffuse" 0.45641 0.44398 0.433104,
+"alpha" 1,
+"ambient" 0.0001 0.0001 0.0001,
+"specular" 0.0121 0.0121 0.0121,
+"specular_transmission" 0.6241 0.621606 0.599386,
+"diffuse_transmission" 0.317949 0.317949 0.317949,
+"roughness" 0,
+"roughness_transmission" 0.08,
+"ior" 1.1,
+"fresnel" on,
+"glossy" on,
+"glossy_samples" 9,
+"opacity_mode" 0,
+"use_diffuse_map_alpha" off,
+"attribute" "--MATMETA--AAAAAQAAAAEAAAAKAF8AXwBwAG8AcwAAABoAwFkAAAAAAADAU4AAAAAAAA==",
+}
+
+#define material "Shampoo Cap" {
+flags 4096
+surface 1
+id 19
+}

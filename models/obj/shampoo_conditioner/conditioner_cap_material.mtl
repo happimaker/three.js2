@@ -1,0 +1,17 @@
+//--lux:mat:5--
+//--lux:shader:5:0--
+// KeyShot material file - KeyShot [64 bit] v7.1.36
+#define shader 1 lux_plastic_simple {
+"diffuse" 0.958974 0.953112 0.900347,
+"alpha" 1,
+"specular" 0.992157 0.992157 0.992157,
+"roughness" 0,
+"ior" 1.54,
+"attribute" "--MATMETA--AAAAAQAAAAEAAAAKAF8AXwBwAG8AcwAAABoAwFkAAAAAAADAU4AAAAAAAA==",
+}
+
+#define material "Conditioner Cap" {
+flags 4096
+surface 1
+id 1
+}
